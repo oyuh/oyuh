@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/oyuh/oyuh/master/Banner.png" alt="Lawson Hart" />
+</h1>
+
 ## Howdy! 👋
 I'm Lawson, an 18 year old web developer from Texas!
 
