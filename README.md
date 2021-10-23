@@ -1,7 +1,7 @@
 ## Howdy! 👋
 I'm Lawson, an 18 year old web developer from Texas!
 
-- 🧭 Founder at [@strtOribt](https://github.com/th8ta)
+- 🧭 Founder at [@strtOribt](https://github.com/strtOrbit)
 
 ## Skills
 - 👨‍💻 JavaScript, PHP
