@@ -6,7 +6,7 @@
 I'm Lawson, an 18 year old web developer from Texas!
 
 - 🐒 I LOVE MONKEYS!!!
-- 🧭 Founder at [@strtOribt](https://github.com/strtOrbit)
+- 🧭 Open for Work!
 
 ## Skills
 - 👨‍💻 JS, PHP, C++, C#, PY, JAVA, TS, RUST
