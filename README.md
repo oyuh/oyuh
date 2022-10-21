@@ -23,4 +23,4 @@ I'm Lawson, an 18 year old web developer from Texas!
 ## Contact
 - [lawsonhart.me](https://lawsonhart.me)
 - [law#0420](https://discordapp.com/users/527167786200465418) on Discord **Most Used!**
-- [@oyuhL](https://t.me/oyuhL)on Telegram!
+- [@oyuhL](https://t.me/oyuhL) on Telegram!
