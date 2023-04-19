@@ -3,7 +3,7 @@
 </h1>
 
 ## Howdy! 👋
-I'm Lawson, an 18 year old web developer from Texas!
+I'm Lawson, an 19 year old web developer & student from Texas!
 
 - 🐒 I LOVE MONKEYS!!!
 - 🧭 Open for Work!
