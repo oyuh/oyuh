@@ -1,5 +1,6 @@
-<h1 align="center">Hey, I'm Lawson 👋, a Full Stack Developer</h1>
+<h1 align="center">Hey, I'm Lawson 👋</h1>
 <p align="center"><em>"I'd rather use stashes than make new branches."</em></p>
+<p align="center">I'm a full stack developer/engineer, from Dallas Texas.</p>
 
 
 
