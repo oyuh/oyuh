@@ -3,12 +3,13 @@
 
 ---
 
-<!-- Requires WakaTime GitHub Action + secret set -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=oyuh&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lawsonhart&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+</p>
 
 ---
 
-### 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
   <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">Discord</a> • 
