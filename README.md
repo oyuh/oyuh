@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lawsonhart&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=oyuh&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
 </p>
 
 ---
