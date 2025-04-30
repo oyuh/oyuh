@@ -1,15 +1,18 @@
-<h1 align="left">Hey!👋</h1>
+<h1 align="center">Hey there, I'm Lawson 👋</h1>
+<p align="center"><em>"I'd rather use stashes than make new branches."</em></p>
 
-###
+---
 
-<p align="left">My name is Lawson and I'm a full-stack developer from Dallas!</p>
+<!-- Requires WakaTime GitHub Action + secret set -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=oyuh&layout=compact&theme=tokyonight)
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 📫 Connect With Me
 
-###
-
-<p align="left">I'm currently a full-time student studying computer science & software engineering! I've always been the "tech" person in my family and have always loved learning how things work!</p>
-
-###
+<p align="center">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">Discord</a> • 
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">Instagram</a> • 
+  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">Twitter</a> • 
+  <a href="https://lawsonhart.me" target="_blank">Website</a>
+</p>
