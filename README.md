@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm Lawson 👋</h1>
 <p align="center"><em>"I'd rather use stashes than make new branches."</em></p>
-<p align="center">I'm a full stack developer/engineer, from Dallas Texas.</p>
+<p align="center">I'm a full-stack developer/engineer from the Dallas-Fort Worth Metroplex. I love building things that make people's lives just a little better.</p>
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyuh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -15,4 +15,4 @@
   <a href="https://instagram.com/lawsonwtf" target="_blank">Instagram</a> • 
   <a href="https://twitter.com/sumboutlaw" target="_blank">Twitter</a> • 
   <a href="https://lawsonhart.me" target="_blank">Website</a>
-</p>
+</p> -->
