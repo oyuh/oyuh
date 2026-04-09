@@ -1,6 +1,6 @@
-<a align="center" href="https://games.lawsonhart.me/shikaku">
+<p align="center" href="https://games.lawsonhart.me/shikaku">
   <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=expert&bg=transparent" alt="Random Shikaku Puzzle" width="460">
-</a>
+</p>
 
 <p align="center">
   <a href="https://games.lawsonhart.me">
