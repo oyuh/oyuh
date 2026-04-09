@@ -1,6 +1,7 @@
-<p align="center" href="https://games.lawsonhart.me/shikaku">
-  <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=hard&bg=transparent" alt="Random Shikaku Puzzle" width="460">
-</p>
+<a href="https://api.games.lawsonhart.me/api/shikaku/puzzle?difficulty=hard">
+  <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=hard&bg=transparent" alt="Random Shikaku Puzzle" width="580">
+</a>
+<p align="center"><sub>↑ click to see the solution</sub></p>
 
 <p align="center">
   <a href="https://games.lawsonhart.me">
@@ -12,18 +13,3 @@
 </p>
 
 <p align="center">I'm a full-stack developer/engineer from the Dallas-Fort Worth Metroplex. I make things that solve very inadequate issues (very first world).</p>
-
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyuh&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
-
-<p align="center">
-  <a href="https://discord.com/users/527167786200465418" target="_blank">Discord</a> • 
-  <a href="https://instagram.com/lawsonwtf" target="_blank">Instagram</a> • 
-  <a href="https://twitter.com/sumboutlaw" target="_blank">Twitter</a> • 
-  <a href="https://lawsonhart.me" target="_blank">Website</a>
-</p> -->
