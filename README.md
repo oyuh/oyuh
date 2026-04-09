@@ -1,6 +1,8 @@
-<a align="center" href="https://api.games.lawsonhart.me/api/shikaku/puzzle?difficulty=hard">
-  <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=hard&bg=transparent" alt="Random Shikaku Puzzle" width="580">
-</a>
+<p align="center">
+  <a href="https://api.games.lawsonhart.me/api/shikaku/puzzle?difficulty=hard">
+    <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=hard&bg=transparent" alt="Random Shikaku Puzzle" width="580">
+  </a>
+</p>
 <p align="center"><sub>↑ click to see the solution</sub></p>
 
 <p align="center">
