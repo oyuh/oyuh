@@ -1,8 +1,8 @@
 <a href="https://games.lawsonhart.me/shikaku">
-  <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=medium&bg=transparent" alt="Random Shikaku Puzzle" width="460">
+  <img align="center" src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=expert&bg=transparent" alt="Random Shikaku Puzzle" width="460">
 </a>
 
-<p>
+<p align="center">
   <a href="https://games.lawsonhart.me">
     <img src="https://img.shields.io/badge/▶%20Play%20Games-34d399?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTgxYTFiIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjciIGhlaWdodD0iNyIgcng9IjEiLz48cmVjdCB4PSIxNCIgeT0iMyIgd2lkdGg9IjciIGhlaWdodD0iNyIgcng9IjEiLz48cmVjdCB4PSIzIiB5PSIxNCIgd2lkdGg9IjciIGhlaWdodD0iNyIgcng9IjEiLz48cmVjdCB4PSIxNCIgeT0iMTQiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHJ4PSIxIi8+PC9zdmc+" alt="Play Games">
   </a>
