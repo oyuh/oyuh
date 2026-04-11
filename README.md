@@ -1,4 +1,4 @@
-<h1 align="center">I'm a full-stack developer/engineer from the Dallas-Fort Worth Metroplex. I make things that solve very inadequate issues (very first world).</p>
+<h3 align="center">I'm a full-stack developer/engineer from the Dallas-Fort Worth Metroplex. I make things that solve very inadequate issues (very first world).</h3>
 
 <p align="center">
   <a href="https://api.games.lawsonhart.me/api/shikaku/puzzle?difficulty=hard">
