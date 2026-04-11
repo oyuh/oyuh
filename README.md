@@ -1,17 +1,58 @@
-<h3 align="center">I'm a full-stack developer/engineer from the Dallas-Fort Worth Metroplex. I make things that solve very inadequate issues (very first world).</h3>
+<h1 align="center">Hey, I'm Lawson Hart</h1>
+<p align="center">Full-stack developer / engineer from the Dallas-Fort Worth Metroplex<br><i>I make things that solve very inadequate issues (very first world)</i></p>
 
 <p align="center">
+  <a href="https://x.com/sumboutlaw"><img src="assets/socials/x.svg" width="44" alt="X" /></a>
+  <a href="https://instagram.com/lawsonwtf"><img src="assets/socials/instagram.svg" width="44" alt="Instagram" /></a>
+  <a href="https://discordapp.com/users/527167786200465418"><img src="assets/socials/discord.svg" width="44" alt="Discord" /></a>
+  <a href="mailto:me@lawsonhart.me"><img src="assets/socials/email.svg" width="44" alt="Email" /></a>
+  <a href="https://buymeacoffee.com/lawsonhart"><img src="assets/socials/buymeacoffee.svg" width="44" alt="Buy Me a Coffee" /></a>
+</p>
+
+<p align="center"><a href="https://lawsonhart.me"><img src="assets/buttons/website.svg" alt="lawsonhart.me" /></a></p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="500">
   <a href="https://api.games.lawsonhart.me/api/shikaku/puzzle?difficulty=hard">
-    <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=hard&bg=transparent&padding=none" alt="Random Shikaku Puzzle" width="500">
+    <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=hard&bg=transparent&padding=none" alt="Random Shikaku Puzzle" width="450" />
   </a>
-</p>
-<p align="center">↑ click to see a solution for a puzzle like this!</p>
-
-<p align="center">
-  <a href="https://games.lawsonhart.me">
-    <img src="https://img.shields.io/badge/▶%20Play%20Games-34d399?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTgxYTFiIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjciIGhlaWdodD0iNyIgcng9IjEiLz48cmVjdCB4PSIxNCIgeT0iMyIgd2lkdGg9IjciIGhlaWdodD0iNyIgcng9IjEiLz48cmVjdCB4PSIzIiB5PSIxNCIgd2lkdGg9IjciIGhlaWdodD0iNyIgcng9IjEiLz48cmVjdCB4PSIxNCIgeT0iMTQiIHdpZHRoPSI3IiBoZWlnaHQ9IjciIHJ4PSIxIi8+PC9zdmc+" alt="Play Games">
+  <br>
+  <sub>a fresh puzzle every load — click for a solution</sub>
+</td>
+<td align="center" width="300">
+  <h3><img src="assets/icons/puzzle.svg" width="24" height="24" alt="" /> Shikaku</h3>
+  <p><em>Timed grid logic puzzle<br>with leaderboards</em></p>
+  <sub>designed, built, and hosted by me</sub>
+  <br><br>
+  <a href="https://games.lawsonhart.me/shikaku">
+    <img src="assets/buttons/play-shikaku.svg" alt="Play Shikaku" />
   </a>
+  <br><br>
   <a href="https://github.com/oyuh/games">
-    <img src="https://img.shields.io/badge/Source%20Code-181a1b?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+    <img src="assets/buttons/source-code.svg" alt="Source Code" />
   </a>
-</p>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- FEATURED_PROJECT_START -->
+<div align="center">
+  <h3><img src="assets/icons/star.svg" width="24" height="24" alt="" /> Featured Project</h3>
+  <strong>Fast Music Widget</strong>
+  <br>
+  <sub>A customizable Last.fm now-playing widget for OBS, XSplit, Streamlabs, and other streaming software.</sub>
+  <br><br>
+  <a href="https://fast.jamlog.lol">
+    <img src="assets/buttons/visit-site.svg" alt="Visit Site" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/oyuh/music-widget">
+    <img src="assets/buttons/source-code.svg" alt="Source Code" />
+  </a>
+</div>
+<!-- FEATURED_PROJECT_END -->

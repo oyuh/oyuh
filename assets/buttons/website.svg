@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="304" height="44" viewBox="0 0 304 44">
+  <rect x="0.5" y="0.5" width="303" height="43" rx="10" fill="#0d1117" stroke="#3580ac" stroke-width="1"/>
+  <svg x="110" y="10" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3580ac" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"/>
+    <path d="M2 12h20"/>
+    <path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/>
+  </svg>
+  <text x="143" y="28" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="600" font-size="15" fill="#e6edf3">lawsonhart.me</text>
+</svg>

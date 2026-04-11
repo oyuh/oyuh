@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186" height="40" viewBox="0 0 186 40">
+  <rect width="186" height="40" rx="10" fill="#3580ac"/>
+  <svg x="16" y="8" width="24" height="24" viewBox="0 0 24 24">
+    <path fill="#0d1117" d="M8 5v14l11-7z"/>
+  </svg>
+  <text x="48" y="26" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="700" font-size="14" fill="#0d1117">PLAY SHIKAKU</text>
+</svg>
