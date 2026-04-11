@@ -43,15 +43,19 @@
 <!-- FEATURED_PROJECT_START -->
 <div align="center">
   <h3><img src="assets/icons/star.svg" width="24" height="24" alt="" /> Featured Project</h3>
-  <strong>Fast Music Widget</strong>
-  <br>
-  <sub>A customizable Last.fm now-playing widget for OBS, XSplit, Streamlabs, and other streaming software.</sub>
+  <a href="https://fivelaunch.help">
+    <img src="assets/screenshots/fivelaunch.png" alt="FiveLaunch" width="700" />
+  </a>
   <br><br>
-  <a href="https://fast.jamlog.lol">
+  <strong>FiveLaunch</strong>
+  <br>
+  <sub>A desktop launcher for FiveM that manages multiple isolated client profiles for mods, plugins, and settings.</sub>
+  <br><br>
+  <a href="https://fivelaunch.help">
     <img src="assets/buttons/visit-site.svg" alt="Visit Site" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/oyuh/music-widget">
+  <a href="https://github.com/oyuh/fivelaunch">
     <img src="assets/buttons/source-code.svg" alt="Source Code" />
   </a>
 </div>
