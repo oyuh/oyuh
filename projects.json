@@ -4,27 +4,25 @@
     "description": "A customizable Last.fm now-playing widget for OBS, XSplit, Streamlabs, and other streaming software.",
     "url": "https://fast.jamlog.lol",
     "repo": "https://github.com/oyuh/music-widget",
-    "screenshot": "assets/screenshots/music-widget.png"
+    "blog": "https://lawsonhart.me/posts/projects/music-widget/"
   },
   {
     "name": "Games",
     "description": "A collection of browser-based party games — Imposter, Password, Chain Reaction, Shade Signal, Location Signal, and Shikaku.",
     "url": "https://games.lawsonhart.me",
     "repo": "https://github.com/oyuh/games",
-    "screenshot": "assets/screenshots/games.png"
+    "blog": "https://lawsonhart.me/posts/projects/online-games/"
   },
   {
     "name": "W3W Map",
     "description": "A static GTA V map viewer with What3Words grid overlay and postal code search.",
     "url": "https://map.fivelaunch.help",
-    "repo": "https://github.com/oyuh/w3w-map",
-    "screenshot": "assets/screenshots/w3w-map.png"
+    "repo": "https://github.com/oyuh/w3w-map"
   },
   {
     "name": "FiveLaunch",
     "description": "A desktop launcher for FiveM that manages multiple isolated client profiles for mods, plugins, and settings.",
     "url": "https://fivelaunch.help",
-    "repo": "https://github.com/oyuh/fivelaunch",
-    "screenshot": "assets/screenshots/fivelaunch.png"
+    "repo": "https://github.com/oyuh/fivelaunch"
   }
 ]

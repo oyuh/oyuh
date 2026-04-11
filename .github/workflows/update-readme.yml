@@ -2,7 +2,7 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '*/10 * * * *'
   push:
     branches: [main]
     paths:
@@ -22,13 +22,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
-
-      - name: Install Playwright
-        run: npm install playwright
-
-      - name: Install Chromium
-        run: npx playwright install chromium --with-deps
+          node-version: 22
 
       - name: Update README
         run: node scripts/update-readme.mjs
@@ -38,5 +32,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "chore: update featured project and screenshots"
+          git diff --staged --quiet || git commit -m "chore: update featured project"
           git push

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
+  <rect x="0.5" y="0.5" width="159" height="39" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <svg x="16" y="8" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#e6edf3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 19.5A2.5 2.5 0 016.5 17H20"/>
+    <path d="M6.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15A2.5 2.5 0 016.5 2z"/>
+  </svg>
+  <text x="48" y="26" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="700" font-size="14" fill="#e6edf3">BLOG POST</text>
+</svg>

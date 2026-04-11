@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Lawson Hart</h1>
-<p align="center">Full-stack developer / engineer from the Dallas-Fort Worth Metroplex<br><i>I make things that solve very inadequate issues (very first world)</i></p>
+<p align="center">Full-stack developer / engineer from the Dallas-Fort Worth Metroplex<br><i>I make things that solve very inadequate/self made issues (most of the time)</i></p>
 
 <p align="center">
   <a href="https://x.com/sumboutlaw"><img src="assets/socials/x.svg" width="44" alt="X" /></a>
@@ -53,6 +53,10 @@
   &nbsp;&nbsp;
   <a href="https://github.com/oyuh/music-widget">
     <img src="assets/buttons/source-code.svg" alt="Source Code" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://lawsonhart.me/posts/projects/music-widget/">
+    <img src="assets/buttons/blog-post.svg" alt="Blog Post" />
   </a>
 </div>
 <!-- FEATURED_PROJECT_END -->
