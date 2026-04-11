@@ -1,3 +1,5 @@
+<h1 align="center">I'm a full-stack developer/engineer from the Dallas-Fort Worth Metroplex. I make things that solve very inadequate issues (very first world).</p>
+
 <p align="center">
   <a href="https://api.games.lawsonhart.me/api/shikaku/puzzle?difficulty=hard">
     <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=hard&bg=transparent&padding=none" alt="Random Shikaku Puzzle" width="500">
@@ -13,5 +15,3 @@
     <img src="https://img.shields.io/badge/Source%20Code-181a1b?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
   </a>
 </p>
-
-<p align="center">I'm a full-stack developer/engineer from the Dallas-Fort Worth Metroplex. I make things that solve very inadequate issues (very first world).</p>
