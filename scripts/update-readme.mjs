@@ -17,7 +17,7 @@ function updateReadme(projects) {
   <h3><img src="assets/icons/star.svg" width="24" height="24" alt="" /> Featured Project</h3>
   <strong>${featured.name}</strong>
   <br>
-  <sub>${featured.description}</sub>
+  ${featured.description}
   <br><br>
   <a href="${featured.url}">
     <img src="assets/buttons/visit-site.svg" alt="Visit Site" />
