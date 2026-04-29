@@ -43,19 +43,19 @@
 <!-- FEATURED_PROJECT_START -->
 <div align="center">
   <h3><img src="assets/icons/star.svg" width="24" height="24" alt="" /> Featured Project</h3>
-  <strong>Games</strong>
+  <strong>Fast Music Widget</strong>
   <br>
-  A collection of browser-based party games — Imposter, Password, Chain Reaction, Shade Signal, Location Signal, and Shikaku.
+  A customizable Last.fm now-playing widget for OBS, XSplit, Streamlabs, and other streaming software.
   <br><br>
-  <a href="https://games.lawsonhart.me">
+  <a href="https://fast.jamlog.lol">
     <img src="assets/buttons/visit-site.svg" alt="Visit Site" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/oyuh/games">
+  <a href="https://github.com/oyuh/music-widget">
     <img src="assets/buttons/source-code.svg" alt="Source Code" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://lawsonhart.me/posts/projects/online-games/">
+  <a href="https://lawsonhart.me/posts/projects/music-widget/">
     <img src="assets/buttons/blog-post.svg" alt="Blog Post" />
   </a>
 </div>
