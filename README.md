@@ -16,8 +16,8 @@
 <table align="center">
 <tr>
 <td align="center" width="500">
-  <a href="https://api.games.lawsonhart.me/api/shikaku/puzzle?difficulty=hard">
-    <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=hard&bg=transparent&padding=none" alt="Random Shikaku Puzzle" width="450" />
+  <a href="https://api.games.lawsonhart.me/api/shikaku/puzzle?difficulty=hard&from=readme&scope=profile&solution=1">
+    <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=hard&from=readme&scope=profile&bg=transparent&padding=none" alt="Random Shikaku Puzzle" width="450" />
   </a>
   <br>
   <sub>a fresh puzzle every load — click for a solution</sub>
@@ -27,7 +27,7 @@
   <p><em>Timed grid logic puzzle<br>with leaderboards</em></p>
   <sub>designed, built, and hosted by me</sub>
   <br><br>
-  <a href="https://games.lawsonhart.me/shikaku">
+  <a href="https://api.games.lawsonhart.me/api/shikaku/puzzle?difficulty=hard&from=readme&scope=profile&play=1">
     <img src="assets/buttons/play-shikaku.svg" alt="Play Shikaku" />
   </a>
   <br><br>
