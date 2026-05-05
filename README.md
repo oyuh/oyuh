@@ -20,7 +20,7 @@
     <img src="https://api.games.lawsonhart.me/api/shikaku/puzzle.svg?difficulty=hard&from=readme&scope=profile&bg=transparent&padding=none" alt="Random Shikaku Puzzle" width="450" />
   </a>
   <br>
-  <sub>a fresh puzzle every load — click for a solution</sub>
+  <sub>a fresh puzzle every load — click for a solution to a similar puzzle</sub>
 </td>
 <td align="center" width="300">
   <h3><img src="assets/icons/puzzle.svg" width="24" height="24" alt="" /> Shikaku</h3>
