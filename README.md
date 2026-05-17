@@ -43,15 +43,15 @@
 <!-- FEATURED_PROJECT_START -->
 <div align="center">
   <h3><img src="assets/icons/star.svg" width="24" height="24" alt="" /> Featured Project</h3>
-  <strong>FiveLaunch</strong>
+  <strong>W3W Map</strong>
   <br>
-  A desktop launcher for FiveM that manages multiple isolated client profiles for mods, plugins, and settings.
+  A static GTA V map viewer with What3Words grid overlay and postal code search.
   <br><br>
-  <a href="https://fivelaunch.help">
+  <a href="https://map.fivelaunch.help">
     <img src="assets/buttons/visit-site.svg" alt="Visit Site" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/oyuh/fivelaunch">
+  <a href="https://github.com/oyuh/w3w-map">
     <img src="assets/buttons/source-code.svg" alt="Source Code" />
   </a>
 </div>
