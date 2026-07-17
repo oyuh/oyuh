@@ -43,20 +43,16 @@
 <!-- FEATURED_PROJECT_START -->
 <div align="center">
   <h3><img src="assets/icons/star.svg" width="24" height="24" alt="" /> Featured Project</h3>
-  <strong>Games</strong>
+  <strong>FiveLaunch</strong>
   <br>
-  A collection of browser-based party games — Imposter, Password, Chain Reaction, Shade Signal, Location Signal, and Shikaku.
+  A desktop launcher for FiveM that manages multiple isolated client profiles for mods, plugins, and settings.
   <br><br>
-  <a href="https://games.lawsonhart.me">
+  <a href="https://fivelaunch.help">
     <img src="assets/buttons/visit-site.svg" alt="Visit Site" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/oyuh/games">
+  <a href="https://github.com/oyuh/fivelaunch">
     <img src="assets/buttons/source-code.svg" alt="Source Code" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://lawsonhart.me/posts/projects/online-games/">
-    <img src="assets/buttons/blog-post.svg" alt="Blog Post" />
   </a>
 </div>
 <!-- FEATURED_PROJECT_END -->
