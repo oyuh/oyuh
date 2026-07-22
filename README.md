@@ -43,16 +43,20 @@
 <!-- FEATURED_PROJECT_START -->
 <div align="center">
   <h3><img src="assets/icons/star.svg" width="24" height="24" alt="" /> Featured Project</h3>
-  <strong>W3W Map</strong>
+  <strong>Fast Music Widget</strong>
   <br>
-  A static GTA V map viewer with What3Words grid overlay and postal code search.
+  A customizable Last.fm now-playing widget for OBS, XSplit, Streamlabs, and other streaming software.
   <br><br>
-  <a href="https://map.fivelaunch.help">
+  <a href="https://fast.jamlog.lol">
     <img src="assets/buttons/visit-site.svg" alt="Visit Site" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/oyuh/w3w-map">
+  <a href="https://github.com/oyuh/music-widget">
     <img src="assets/buttons/source-code.svg" alt="Source Code" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://lawsonhart.me/posts/projects/music-widget/">
+    <img src="assets/buttons/blog-post.svg" alt="Blog Post" />
   </a>
 </div>
 <!-- FEATURED_PROJECT_END -->
