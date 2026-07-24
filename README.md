@@ -6,14 +6,14 @@ Full-stack developer / engineer from the Dallas-Fort Worth Metroplex\
 ---
 
 + **[Games](https://games.lawsonhart.me)** *(React, Hono, Rocicorp Zero)*
-a pile of browser party games plus two solo puzzles, shikaku and pips, all with global leaderboards and running on my own api. [code](https://github.com/oyuh/games) · [blog post](https://lawsonhart.me/posts/projects/online-games/) <!-- GAMES_STAT -->🏆 current shikaku record: 15,922 pts (hard) by Lawson (upd: 7/24 07:18)<!-- /GAMES_STAT -->
+a pile of browser party games plus two solo puzzles, shikaku and pips, all with global leaderboards and running on my own api. [code](https://github.com/oyuh/games) · [blog post](https://lawsonhart.me/posts/projects/online-games/) <!-- GAMES_STAT -->🏆 current pips record: 2:14.9 by Law (upd: 7/24 07:50)<!-- /GAMES_STAT -->
 
 
 
 + **[Jamlog](https://fast.jamlog.lol)** *(Svelte, Hono, Drizzle)*
-a last.fm now playing widget for obs and other streaming software. design it in the editor, paste your username, drop the url in as a browser source and it updates live with your music. [code](https://github.com/oyuh/music-widget) · [blog post](https://lawsonhart.me/posts/projects/music-widget/) <!-- JAMLOG_STAT -->🎧 406 people are using it (upd: 7/24 07:18)<!-- /JAMLOG_STAT -->
+a last.fm now playing widget for obs and other streaming software. design it in the editor, paste your username, drop the url in as a browser source and it updates live with your music. [code](https://github.com/oyuh/music-widget) · [blog post](https://lawsonhart.me/posts/projects/music-widget/) <!-- JAMLOG_STAT -->🎧 406 people are using it (upd: 7/24 07:50)<!-- /JAMLOG_STAT -->
 
 
 
 + **[FiveLaunch](https://fivelaunch.help)** *(Tauri, Rust, Svelte)*
-a desktop launcher for fivem that keeps isolated client profiles, so every server gets its own mods, plugins, and settings without stepping on each other. [code](https://github.com/oyuh/fivelaunch) · [blog post](https://lawsonhart.me/posts/projects/fivelaunch/) <!-- FIVELAUNCH_STAT -->⬇️ 93 downloads and counting (upd: 7/24 07:18)<!-- /FIVELAUNCH_STAT -->
+a desktop launcher for fivem that keeps isolated client profiles, so every server gets its own mods, plugins, and settings without stepping on each other. [code](https://github.com/oyuh/fivelaunch) · [blog post](https://lawsonhart.me/posts/projects/fivelaunch/) <!-- FIVELAUNCH_STAT -->⬇️ 93 downloads and counting (upd: 7/24 07:50)<!-- /FIVELAUNCH_STAT -->
