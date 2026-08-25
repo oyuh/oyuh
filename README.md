@@ -11,9 +11,9 @@ a pile of browser party games plus two solo puzzles, shikaku and pips, all with 
 
 
 + **[Jamlog](https://fast.jamlog.lol)** *(Svelte, Hono, Drizzle)*
-a last.fm now playing widget for obs and other streaming software. design it in the editor, paste your username, drop the url in as a browser source and it updates live with your music. [code](https://github.com/oyuh/music-widget) · [blog post](https://lawsonhart.me/posts/projects/music-widget/) <!-- JAMLOG_STAT -->🎧 655 people are using it (upd: 8/25 16:28)<!-- /JAMLOG_STAT -->
+a last.fm now playing widget for obs and other streaming software. design it in the editor, paste your username, drop the url in as a browser source and it updates live with your music. [code](https://github.com/oyuh/music-widget) · [blog post](https://lawsonhart.me/posts/projects/music-widget/) <!-- JAMLOG_STAT -->🎧 655 people are using it (upd: 8/25 16:42)<!-- /JAMLOG_STAT -->
 
 
 
 + **[FiveLaunch](https://fivelaunch.help)** *(Tauri, Rust, Svelte)*
-a desktop launcher for fivem that keeps isolated client profiles, so every server gets its own mods, plugins, and settings without stepping on each other. [code](https://github.com/oyuh/fivelaunch) · [blog post](https://lawsonhart.me/posts/projects/fivelaunch/) <!-- FIVELAUNCH_STAT -->⬇️ 96 downloads and counting (upd: 8/25 16:28)<!-- /FIVELAUNCH_STAT -->
+a desktop launcher for fivem that keeps isolated client profiles, so every server gets its own mods, plugins, and settings without stepping on each other. [code](https://github.com/oyuh/fivelaunch) · [blog post](https://lawsonhart.me/posts/projects/fivelaunch/) <!-- FIVELAUNCH_STAT -->⬇️ 96 downloads and counting (upd: 8/25 16:42)<!-- /FIVELAUNCH_STAT -->
