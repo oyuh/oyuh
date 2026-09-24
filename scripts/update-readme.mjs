@@ -10,7 +10,8 @@ const esc = (s) => String(s).slice(0, 32).replace(/[&<>"']/g, (ch) => `&#${ch.ch
 const fmtTime = (ms) => `${Math.floor(ms / 60000)}:${((ms % 60000) / 1000).toFixed(1).padStart(4, '0')}`;
 
 async function getJson(url, headers = {}) {
-  const res = await fetch(url, { headers });
+  // a hung api shouldn't hold the runner (and the bill) open
+  const res = await fetch(url, { headers, signal: AbortSignal.timeout(10_000) });
   if (!res.ok) throw new Error(`${url} -> ${res.status}`);
   return res.json();
 }

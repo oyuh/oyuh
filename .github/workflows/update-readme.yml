@@ -2,7 +2,8 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    # off the hour, since top-of-hour cron runs get queued behind everyone else's
+    - cron: '17,47 * * * *'
   push:
     branches: [main]
     paths:
@@ -13,16 +14,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 3
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-
+      # the runner image already ships a node new enough for fetch, so no setup-node
       - name: Update README
         run: node scripts/update-readme.mjs
         env:
@@ -33,5 +36,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "chore: update readme stats"
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: update readme stats"
           git push
