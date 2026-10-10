@@ -16,17 +16,24 @@ async function getJson(url, headers = {}) {
   return res.json();
 }
 
-// show one single-player leaderboard at a time, flipping between shikaku and pips each run
+// each board's query doubles as its share page's, so the seed link opens that exact puzzle
+const SOLO = {
+  shikaku: { query: '?difficulty=hard', record: (top) => `${top.score.toLocaleString('en-US')} pts (hard)` },
+  pips: { query: '', record: (top) => fmtTime(top.totalMs) },
+  zip: { query: '?difficulty=hard', record: (top) => `${fmtTime(top.timeMs)} (hard)` },
+};
+const SOLO_ORDER = Object.keys(SOLO);
+
+// show one single-player leaderboard at a time, cycling through SOLO_ORDER each run
 async function gamesStat(readme) {
   const current = readme.split('<!-- GAMES_STAT -->')[1]?.split('<!-- /GAMES_STAT -->')[0] ?? '';
-  if (current.includes('shikaku')) {
-    const { entries } = await getJson(`${GAMES_API}/api/pips/leaderboard?limit=1`);
-    const top = entries[0];
-    return `🏆 current pips record: ${fmtTime(top.totalMs)} by ${esc(top.name)}`;
-  }
-  const { entries } = await getJson(`${GAMES_API}/api/shikaku/leaderboard?difficulty=hard&limit=1`);
+  const last = current.match(/current (\w+) record/)?.[1];
+  const game = SOLO_ORDER[(SOLO_ORDER.indexOf(last) + 1) % SOLO_ORDER.length];
+  const { query, record } = SOLO[game];
+  const { entries } = await getJson(`${GAMES_API}/api/${game}/leaderboard${query}`);
   const top = entries[0];
-  return `🏆 current shikaku record: ${top.score.toLocaleString('en-US')} pts (hard) by ${esc(top.name)}`;
+  const play = `https://games.lawsonhart.me/share/${game}${query ? `${query}&` : '?'}seed=${top.seed}`;
+  return `🏆 current ${game} record: ${record(top)} by ${esc(top.name)} on seed [${top.seed}](${play})`;
 }
 
 async function jamlogStat() {

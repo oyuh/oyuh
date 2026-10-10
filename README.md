@@ -6,7 +6,7 @@ Full-stack developer / engineer from the Dallas-Fort Worth Metroplex\
 ---
 
 + **[Games](https://games.lawsonhart.me)** *(React, Hono, Rocicorp Zero)*
-a pile of browser party games plus two solo puzzles, shikaku and pips, all with global leaderboards and running on my own api. [code](https://github.com/oyuh/games) · [blog post](https://lawsonhart.me/posts/projects/online-games/) <!-- GAMES_STAT -->🏆 current pips record: 2:14.9 by Law (upd: 10/10 15:05)<!-- /GAMES_STAT -->
+a pile of browser party games plus three solo puzzles, shikaku, pips, and zip, all with global leaderboards and running on my own api. [code](https://github.com/oyuh/games) · [blog post](https://lawsonhart.me/posts/projects/online-games/) <!-- GAMES_STAT -->🏆 current pips record: 2:14.9 by Law (upd: 10/10 15:05)<!-- /GAMES_STAT -->
 
 
 
